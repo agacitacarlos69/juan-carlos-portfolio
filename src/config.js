@@ -4,5 +4,5 @@ export const contact = {
   email: 'agacitacarlos@gmail.com',
   github: 'https://github.com/agacitacarlos69',       // Full https://github.com/... URL
   linkedin: 'https://www.linkedin.com/in/carlos-agacita-b6b227368/',     // Full https://www.linkedin.com/in/... URL
-  portfolio: '',    // Full https://... URL after publishing
+  portfolio: 'https://agacitacarlos69.github.io/juan-carlos-portfolio/',    // Full https://... URL after publishing
 };
